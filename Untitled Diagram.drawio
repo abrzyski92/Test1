@@ -60,7 +60,7 @@
           <mxGeometry x="480" y="130" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0x4GOvO5WbsecGbyz3oT-10" value="Select and fill in MDML template" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="50" width="120" height="40" as="geometry" />
+          <mxGeometry x="685" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0x4GOvO5WbsecGbyz3oT-12" value="Setup new&amp;nbsp;&lt;div&gt;instrument&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="170" width="80" height="30" as="geometry" />
@@ -148,10 +148,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0x4GOvO5WbsecGbyz3oT-77" value="MDML documents" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="510" width="88" height="60" as="geometry" />
+          <mxGeometry x="360" y="600" width="88" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0x4GOvO5WbsecGbyz3oT-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0x4GOvO5WbsecGbyz3oT-10" target="0x4GOvO5WbsecGbyz3oT-77">
+        <mxCell id="0x4GOvO5WbsecGbyz3oT-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0x4GOvO5WbsecGbyz3oT-10" target="0x4GOvO5WbsecGbyz3oT-77">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0x4GOvO5WbsecGbyz3oT-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0x4GOvO5WbsecGbyz3oT-80" target="0x4GOvO5WbsecGbyz3oT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0x4GOvO5WbsecGbyz3oT-80" value="MDML template files (FTL?)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="695" y="600" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
